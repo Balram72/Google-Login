@@ -1,0 +1,8 @@
+Links shown in the video:
+---------------------------
+  https://packagist.org/packages/google/apiclient                                           -> composer link
+  https://console.cloud.google.com/                                                         -> google project open link
+  https://github.com/googleapis/google-api-php-client-services/blob/main/src/Oauth2/Userinfo.php -> google get info link
+  http://myaccount.google.com/security
+
+   
