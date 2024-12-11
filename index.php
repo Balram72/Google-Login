@@ -4,8 +4,8 @@ require __DIR__ . "/vendor/autoload.php";
 
 $client = new Google\Client;
 
-// $client ->setClientId("193410126717-ikd5ffrpsinm710ug2oif5nbcj38q9oq.apps.googleusercontent.com");
-// $client ->setClientSecret("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");
+// $client ->setClientId("Google Clint ID");
+// $client ->setClientSecret("Clint Secrect ID");
 $client->setRedirectUri("http://localhost/google_login/redirect.php");
 
 $client->addScope("email");
